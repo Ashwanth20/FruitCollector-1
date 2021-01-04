@@ -1,0 +1,28 @@
+html, body 
+{
+  margin: 0;
+  padding: 0;
+}
+canvas 
+{
+  display: block;
+  border: 5px solid maroon;
+  margin-right:auto;
+  margin-left:auto;
+  margin-top: 100px;
+}
+.customInput
+{
+  border: 5px solid  rgba(0, 17, 255, 0.726);
+  border-radius: 30px;
+}
+.customButton
+{
+  border: 5px solid rgba(0, 17, 255, 0.726);
+  border-radius: 30px;
+}
+.customReset
+{
+  border: 5px solid  rgba(0, 17, 255, 0.726);
+  border-radius: 30px;
+}
